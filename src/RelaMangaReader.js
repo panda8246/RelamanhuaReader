@@ -5,6 +5,8 @@
 // @description  Fullscreen overlay reader: landscape, 2-page spread, right-to-left, first page single.
 // @author       paoMian(https://github.com/panda8246)
 // @license      MIT
+// @homepageURL  https://github.com/panda8246/RelamanhuaReader
+// @supportURL   https://github.com/panda8246/RelamanhuaReader/issues
 // @match        https://www.relamanhua.org/comic/*/chapter/*
 // @match        https://relamanhua.org/comic/*/chapter/*
 // @run-at       document-idle
